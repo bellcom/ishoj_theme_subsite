@@ -1,6 +1,6 @@
 <div<?php print $attributes; ?>>
   <div<?php print $content_attributes; ?>>
-   <div class="ods-logo"><a href="http://www.odsherred.dk">LOGO</a></div>
-   <div class="ods-link"><a href="http://www.odsherred.dk">Odsherred Kommune</a>  |  Nyvej 22  |  4573 Højby  |  Telefon: 59 66 66 66  |  <a href="mailto:kommune@odsherred.dk">kommune@odsherred.dk</a></div>
+   <div class="ods-logo"><a href="http://www.ishoj.dk">LOGO</a></div>
+   <div class="ods-link"><a href="http://www.ishoj.dk">Ish&#248;j Kommune</a>  |  Ish&#248;j Store Torv 20 | 2635 Ish&#248;j |  Telefon: 43 57 75 75  |  <a href="mailto:ishojkommune@ishoj.dk">ishojkommune@ishoj.dk</a></div>
   </div>
 </div>
