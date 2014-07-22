@@ -246,12 +246,12 @@ padding-top: 10px ;}
 .slider_right {
   position: fixed;
   right: 0;
-  background: url('img/andresiderOdsherred.png');
+/*  background: url('img/andresiderOdsherred.png');*/
   width: 60px;
 }
 
 .slider_left{
-  background: url('img/tilbage_odsherredDK.png');
+/*  background: url('img/tilbage_odsherredDK.png');*/
   height: 148px;
   background-repeat: no-repeat;
   position: fixed;
